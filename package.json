@@ -1,0 +1,31 @@
+{
+  "name": "cyclic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+      "start": "node index.js",
+      "dev": "nodemon index.js"
+
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingole8888/myserver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingole8888/myserver/issues"
+  },
+  "homepage": "https://github.com/ingole8888/myserver#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
