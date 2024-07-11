@@ -1,1 +1,1 @@
-# myserver
+# Practice Server
